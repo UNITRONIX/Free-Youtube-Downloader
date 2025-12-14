@@ -1,4 +1,4 @@
-# YT Music Downloader (prosty)
+# YT Music Downloader (EASY)
 # Free-Youtube-Downloader
 
 Free open source youtube downloader without any limits :)
