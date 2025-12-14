@@ -1,0 +1,21 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+eggs/
+*.egg-info/
+.mypy_cache/
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Do not ignore ffmpeg by default; if you bundle binaries you may commit them intentionally.
+# If you want to exclude a local ffmpeg build, uncomment the following line:
+# ffmpeg/
