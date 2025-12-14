@@ -54,7 +54,3 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 Contributing
 - Contributions are welcome. Open an issue or submit a PR on the repository.
-
-Repository
-- Suggested repository name: `Free-Youtube-Downloader`
-- Short description / tagline: "Free open source youtube downloader without any limits :)"
